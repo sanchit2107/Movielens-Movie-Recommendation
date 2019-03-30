@@ -85,13 +85,13 @@ improving current collaborative filtering technology.
 
 Further information on the GroupLens Research project, including
 research publications, can be found at the following web site:
-        
-        <http://www.grouplens.org/>
+
+	[Grouplens](https://www.grouplens.org/)
 
 GroupLens Research currently operates a movie recommender based on
 collaborative filtering:
 
-        <http://www.movielens.org/>
+	[Movielens](https://www.movielens.org/)
 
 DETAILED DESCRIPTIONS OF DATA FILES
 ==============================================
